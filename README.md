@@ -10,24 +10,19 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
-
-<br/>
+Make sure the Ep core robot inserts the battery and checks the battery percentage
 
 Step2:
-
-<br/>
+Turn on the robot and connect the robot to the computer through WIFI
 
 Step3:
-
-<br/>
+Open a visual studio, import robomaster package and do all the code
 
 Step4:
-
-<br/>
+Open a visual studio and import robomaster package and do all the code
 
 Step5:
-
-<br/>
+Run the program to see the robot movement
 
 ## Program
 ```python
